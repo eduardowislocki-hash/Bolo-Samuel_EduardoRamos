@@ -41,9 +41,28 @@
         width: 40%;
         height: 60%;
     }
+    .fofinho{
+        text-align: center;
+        font-size: 30px
+        ;
+    }
+
+    .Facil{
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .Simples{
+        text-align: center;
+        font-size: 30px;
+    }
+
+    
+
+    
 
 body{
-    background: linear-gradient(to bottom, darkseagreen, green, brown
+    background: linear-gradient(to bottom, darkseagreen, green, white
     
     );
 }
